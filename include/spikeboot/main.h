@@ -1,0 +1,6 @@
+#ifndef SPIKEBOOT_MAIN_H
+#define SPIKEBOOT_MAIN_H
+
+#define BOOTLOADER_EXIT_CPU_FREQ 2
+
+#endif /* SPIKEBOOT_MAIN_H */

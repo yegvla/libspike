@@ -1,0 +1,6 @@
+build
+*.a
+*.bin
+.cache
+compile_commands.json
+*.pdf
